@@ -1,4 +1,4 @@
-<?php namespace Defenestrator\Laravel5\Couchdb;
+<?php namespace Gmg\Laravel5\Couchdb;
 use \Illuminate\Support\ServiceProvider;
 
 class CouchDbServiceProvider extends ServiceProvider {
